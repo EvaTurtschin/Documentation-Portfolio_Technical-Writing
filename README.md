@@ -59,8 +59,5 @@ Automated tests for the OpenFDA API using Postman and Newman, integrated with CI
 - Includes instructions for running tests locally and via CI, environment setup, and optional Jenkins integration.  
 - Project structure clearly separates collections, environments, workflows, and documentation.  
 
-
-An in-depth test suite focused on a single feature. Documents navigation logic, control states, branching behavior, and visual responses to user actions.
-
 All documents are original and based on real freelance and educational projects.
 Prepared and maintained in English by Evgeniya Turtschina, QA Engineer and Technical Writing candidate.
