@@ -49,7 +49,7 @@ This repository contains a curated selection of documentation and structured del
 
 **Annotation:** Technical QA test assignment, including code for battery-throttle interaction and a detailed test plan with normal, boundary, and failure scenarios.
  
-### 8. [Automated API Testing Project README](https://github.com/EvaTurtschin/OpenFDA_API_Tests_Postman.git)
+### 8. [Automated API Testing Project README (Repository Link)](https://github.com/EvaTurtschin/OpenFDA_API_Tests_Postman.git)
 
 **Approach:** This project demonstrates my ability to document automated API tests clearly and comprehensively. It includes  environment configuration, instructions for running tests, and CI/CD integration. Focus is on readability, reproducibility, and traceability of tests.  
 
