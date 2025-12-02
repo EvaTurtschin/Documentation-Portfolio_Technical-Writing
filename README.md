@@ -9,21 +9,21 @@ This repository contains a curated selection of documentation and structured del
 **Annotation:** A complete test plan outlining objectives, scope, risks, testing approach, environment, and related references. Includes links to supporting artifacts such as user stories, diagrams, and mind maps.
 
 ### 2. [LeafGrow – Structured Test Cases](/2.%20LeafGrow%20–%20Structured%20Test%20Cases%20-%20Scenario%20summary.pdf)
-[Google sheets Link for Excel file](https://docs.google.com/spreadsheets/d/1KV8CrE4wo22-B8peOrRsleNOeGfjWDk1hHPPZ4jZLT0/edit?usp=sharing)
+[Google Sheets Link for Excel file](https://docs.google.com/spreadsheets/d/1KV8CrE4wo22-B8peOrRsleNOeGfjWDk1hHPPZ4jZLT0/edit?usp=sharing)
 
 **Approach:** Demonstrates the ability to write step-by-step functional test cases with clear expected outcomes and traceability to requirements. Emphasis is on clarity and reproducibility.
 
 **Annotation:** Functional test cases covering registration, login, main user flow, and account deletion, structured to ensure readability and traceability.
 
 ### 3. [ComiCoin – Feature Checklist](/3.%20ComiCoin%20–%20Feature%20Checklist%20-%20Smoke%20Android_iOS.pdf)
-[Google Sheet Link for Excel file](https://docs.google.com/spreadsheets/d/1EwkTCh97t86TAHayVNAa9uTEhQ6sYQzo45FNYOKJN_8/edit?usp=sharing)
+[Google Sheets Link for Excel file](https://docs.google.com/spreadsheets/d/1EwkTCh97t86TAHayVNAa9uTEhQ6sYQzo45FNYOKJN_8/edit?usp=sharing)
 
 **Approach:** Presents a concise, structured checklist for quick regression and smoke testing. Shows how to communicate essential QA checks in a compact format.  
 
 **Annotation:** Checklist for verifying feature behavior across app sections on Android, designed for fast reference and coverage efficiency.
 
 ### 4. [ComiCoin – UI Glossary](/4.%20ComiCoin%20–%20UI%20Glossary%20-%20_ComiCoin_%20Glossary.pdf)
-[Google Sheet Link for Excel file](https://docs.google.com/spreadsheets/d/1WcaTFChnoh8VsRGTxOu8hPDOLP3lzGf4qGYB97YhSY8/edit?usp=sharing)
+[Google Sheets Link for Excel file](https://docs.google.com/spreadsheets/d/1WcaTFChnoh8VsRGTxOu8hPDOLP3lzGf4qGYB97YhSY8/edit?usp=sharing)
 
 **Approach:** Demonstrates ability to document UI elements visually and consistently, serving as a reference for designers, testers, and new team members.  
 
